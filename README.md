@@ -1,10 +1,10 @@
 
 
-Desarrollador Web.
+ Web Developer specialized in web application development.
 
-Interesado en Backend, DevOps y desarrollo de aplicaciones web.  
+ Interested in Backend, DevOps, and modern web technologies.
 
-Estudiante y desarrollador de proyectos académicos y personales.
+ Student and developer of academic and personal projects.
 
 ---
 
